@@ -12,8 +12,11 @@ Systems design is the process of defining the architecture, modules, interfaces,
 
 - [Airbnb](https://medium.com/airbnb-engineering)
 
-# GitHub Repositories
+# Check List
 - [Designing iOS architecture: Checklist](https://github.com/BohdanOrlov/architecture-checklist)
 
 # Front-end Articles
 - [Designing iOS architecture: Motivation](https://medium.com/ios-os-x-development/designing-ios-architecture-motivation-e984e4ebba4a)
+- [iOS Architecture Patterns](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52)
+
+
